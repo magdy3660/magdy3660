@@ -3,5 +3,5 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Homelab</b>
-  - [Praciting DS & Algos in Python](https://github.com/abdomagdy0/Active Directory Setup)
+  - [Active Directory Setup](https://github.com/abdomagdy0/Active-Directory-Setup)
 
