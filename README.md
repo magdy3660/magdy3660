@@ -2,7 +2,7 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b>Active Directory Homelab</b>
-  - [Setting up an Active Directory Homelab](https://github.com/abdomagdy0/Active-Directory-Setup)
+  - [Setting up an Active Directory Homelab](https://github.com/abdomagdy0/Active-Directory-Homelab)
 - <b>Samba service enumerator</b>
    - [smb-enum (samba enumeration tool)](https://github.com/abdomagdy0/smb-enum)
  - <b>vulnserver Reverse Shell Proof of concept</b>
