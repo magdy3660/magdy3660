@@ -1,6 +1,8 @@
 <h1>Hi, I'm Abdo! <br/><a href="https://github.com/abdomagdy0">Programmer</a>, <a href="https://www.linkedin.com/in/abdomagdy0/">Cybersecurity enthusiast</a>
 <h2> Cybersecurity Projects:</h2>
-
+- <b> Blue team Notes</b>
+  - ![SecurityNotes](https://app.gitbook.com/invite/nyysSOj5G1qfTqZ4Q2Bz/mVPIXdJJzhcZ2lH1hYqh)
+  - [Setting up an Active Directory Homelab](https://github.com/abdomagdy0/Active-Directory-Homelab)
 - <b>Active Directory Homelab</b>
   - [Setting up an Active Directory Homelab](https://github.com/abdomagdy0/Active-Directory-Homelab)
 - <b>Samba service enumerator</b>
