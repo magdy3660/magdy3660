@@ -2,8 +2,8 @@
 
 ## Cybersecurity Projects:
 
-- **Blue team Notes**
-  - [CyberSecurity Notes](https://app.gitbook.com/invite/nyysSOj5G1qfTqZ4Q2Bz/mVPIXdJJzhcZ2lH1hYqh)
+- **Cybersecurity Notes**
+  - [CyberSecurity Notes](https://app.gitbook.com/o/nyysSOj5G1qfTqZ4Q2Bz/s/r7bpax0hoCiKvHYxNTsK/policies/welcome)
 - **Active Directory Homelab**
   - [Setting up an Active Directory Homelab](https://github.com/abdomagdy0/Active-Directory-Homelab)
 - **Samba service enumerator**
