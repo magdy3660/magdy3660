@@ -15,8 +15,3 @@
 
 - **Music Bot For Discord**
   - [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/music-bot)
-- **Recipe Sharing Website**
-  - [Find-Recipe (Recipe Sharing Website)](https://github.com/abdomagdy0/recipe-sharing-website)
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-Or
