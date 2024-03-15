@@ -15,3 +15,6 @@
 
 - **Music Bot For Discord**
   - [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/music-bot)
+  - 
+<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-grey?logo=javascript&label=code&labelColor=yellow&color=grey"> <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?logo=python&label=code&labelColor=yellow&color=blue"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?logo=html5">
+
