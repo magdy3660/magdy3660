@@ -2,7 +2,7 @@
 
 ## Cybersecurity Projects:
 - **SOC**
-  - [Building an advanced SOC](https://app.gitbook.com/o/nyysSOj5G1qfTqZ4Q2Bz/s/r7bpax0hoCiKvHYxNTsK/policies/welcome)
+  - [Building a SOC lab](https://github.com/abdomagdy0/soc-1)
 
 - **Cybersecurity Notes**
   - [CyberSecurity Notes](https://app.gitbook.com/o/nyysSOj5G1qfTqZ4Q2Bz/s/r7bpax0hoCiKvHYxNTsK/policies/welcome)
