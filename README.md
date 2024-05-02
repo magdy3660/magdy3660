@@ -6,8 +6,7 @@
 
 - **Cybersecurity Notes**
   - [CyberSecurity Notes](https://app.gitbook.com/o/nyysSOj5G1qfTqZ4Q2Bz/s/r7bpax0hoCiKvHYxNTsK/policies/welcome)
-- **Active Directory Homelab**
-  - [Setting up an Active Directory Homelab](https://github.com/abdomagdy0/Active-Directory-Homelab)
+
 - **Samba service enumerator**
   - [smb-enum (samba enumeration tool)](https://github.com/abdomagdy0/smb-enum)
 - **vulnserver Reverse Shell Proof of concept**
@@ -15,8 +14,6 @@
 
 
 # Coding Projects:
-- **Resturant Cashier website**
-  - [Cashier System](https://github.com/abdomagdy0/Cashier-System0)
 
 
 - **js Music Bot For Discord**
