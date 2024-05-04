@@ -1,11 +1,12 @@
 <h1>Hi, I'm Abdo! <br/><a href="https://github.com/abdomagdy0">Programmer</a>, <a href="https://www.linkedin.com/in/abdomagdy0/">Cybersecurity enthusiast</a> , <a href="https://www.linkedin.com/in/abdomagdy0/">  content creator 
 
 ## Cybersecurity Projects:
+- **Cybersecurity Notes**
+  - [CyberSecurity Notes](https://app.gitbook.com/o/nyysSOj5G1qfTqZ4Q2Bz/s/r7bpax0hoCiKvHYxNTsK/policies/welcome)
+
 - **SOC**
   - [Building a SOC lab](https://github.com/abdomagdy0/soc-1)
 
-- **Cybersecurity Notes**
-  - [CyberSecurity Notes](https://app.gitbook.com/o/nyysSOj5G1qfTqZ4Q2Bz/s/r7bpax0hoCiKvHYxNTsK/policies/welcome)
 
 - **Samba service enumerator**
   - [smb-enum (samba enumeration tool)](https://github.com/abdomagdy0/smb-enum)
