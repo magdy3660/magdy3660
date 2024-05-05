@@ -4,8 +4,6 @@
 - **Cybersecurity Notes**
   - [CyberSecurity Notes](https://app.gitbook.com/o/nyysSOj5G1qfTqZ4Q2Bz/s/r7bpax0hoCiKvHYxNTsK/policies/welcome)
 
-- **SOC**
-  - [Building a SOC lab](https://github.com/abdomagdy0/soc-1)
 
 
 - **Samba service enumerator**
