@@ -8,6 +8,8 @@
 
 - ## **Building a Reverse Shell**
   -  ### [Vulnserver Reverse Shell Poc](https://github.com/abdomagdy0/vulnserver-Reverse-shell)
+ - ## **Building my own Port Scanner**
+-  ### [Port Scanner with python & Scappy](https://github.com/abdomagdy0/port-scanner)  
 
 
 
