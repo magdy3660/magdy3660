@@ -1,32 +1,31 @@
 <h1>Hi, I'm Abdo! <br/> <a href="https://www.linkedin.com/in/abdomagdy0/">Cybersecurity enthusiast</a> , <a href="https://www.linkedin.com/in/abdomagdy0/">CTF player</a> , <a href="https://www.linkedin.com/in/abdomagdy0/">  content creator </a>
 
 # [ **my blog**](https://app.gitbook.com/o/nyysSOj5G1qfTqZ4Q2Bz/s/r7bpax0hoCiKvHYxNTsK/policies/welcome)
-# Cybersecurity Projects:
 
-  
+# # <a href="https://www.linkedin.com/in/abdomagdy0/">Cybersecurity Projects: </a>
+- ##  **Samba service enumerator**
+  - ### [samba enumeration tool](https://github.com/abdomagdy0/smb-enum)
 
-
-- **Samba service enumerator**
-  - [samba enumeration tool](https://github.com/abdomagdy0/smb-enum)
-    
-- **Building a Reverse Shell**
-  - [Vulnserver Reverse Shell Poc](https://github.com/abdomagdy0/vulnserver-Reverse-shell)
+- ## **Building a Reverse Shell**
+  -  ### [Vulnserver Reverse Shell Poc](https://github.com/abdomagdy0/vulnserver-Reverse-shell)
 
 
-# Coding Projects
-
-- **Node Store application**
-  - [Store Application](https://github.com/abdomagdy0/node-store)
 
 
-- **js Music Bot For Discord**
-  - [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/music-bot)
+#  # <a href="https://www.linkedin.com/in/abdomagdy0/">  Coding Projects </a>
 
-- **SQL Managed Library**
-  - [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/librarymanagement)
+- ## **Node Store application**
+  - ###  [Store Application](https://github.com/abdomagdy0/node-store)
+
+
+- ## **js Music Bot For Discord**
+  - ### [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/music-bot)
+
+- ## **SQL Managed Library**
+  - ### [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/librarymanagement)
  
-- **Frontend Website**
-  - [Fauxica Website)](https://github.com/abdomagdy0/Frontend-website)
+ - ## **Frontend Website**
+    - ### [Fauxica Website](https://github.com/abdomagdy0/Frontend-website)
     
 
 
