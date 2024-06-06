@@ -21,9 +21,7 @@
 - ## **js Music Bot For Discord**
   - ### [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/music-bot)
 
-- ## **SQL Managed Library**
-  - ### [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/librarymanagement)
- 
+
  - ## **Frontend Website**
     - ### [Fauxica Website](https://github.com/abdomagdy0/Frontend-website)
     
