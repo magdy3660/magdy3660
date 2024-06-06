@@ -1,9 +1,9 @@
 <h1>Hi, I'm Abdo! <br/> <a href="https://www.linkedin.com/in/abdomagdy0/">Cybersecurity enthusiast</a> , <a href="https://www.linkedin.com/in/abdomagdy0/">CTF player</a> , <a href="https://www.linkedin.com/in/abdomagdy0/">  content creator </a>
 
+# [ **my blog**](https://app.gitbook.com/o/nyysSOj5G1qfTqZ4Q2Bz/s/r7bpax0hoCiKvHYxNTsK/policies/welcome)
 # Cybersecurity Projects:
 
-  - [ **my blog**](https://app.gitbook.com/o/nyysSOj5G1qfTqZ4Q2Bz/s/r7bpax0hoCiKvHYxNTsK/policies/welcome)
-
+  
 
 
 - **Samba service enumerator**
@@ -13,7 +13,6 @@
   - [Vulnserver Reverse Shell Poc](https://github.com/abdomagdy0/vulnserver-Reverse-shell)
 
 
-  - [ **my blog**](https://app.gitbook.com/o/nyysSOj5G1qfTqZ4Q2Bz/s/r7bpax0hoCiKvHYxNTsK/policies/welcome)
 # Coding Projects
 - **Node Store application**
   - [Store Application](https://github.com/abdomagdy0/node-store)
@@ -23,7 +22,7 @@
   - [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/music-bot)
 
 - **SQL Managed Library**
-  - [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/music-bot)
+  - [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/librarymanagement)
 
 
 
