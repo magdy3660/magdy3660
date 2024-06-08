@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abdo! <br/> <a href="https://www.linkedin.com/in/abdomagdy0/">Cybersecurity enthusiast</a> , <a href="https://www.linkedin.com/in/abdomagdy0/">CTF player</a> , <a href="https://www.linkedin.com/in/abdomagdy0/">  content creator </a>
 
-# [ **my blog**](https://app.gitbook.com/o/nyysSOj5G1qfTqZ4Q2Bz/s/r7bpax0hoCiKvHYxNTsK/policies/welcome)
+# [ **my blog**](https://blue-notes.gitbook.io/notes)
 
 # # <a href="https://www.linkedin.com/in/abdomagdy0/">Cybersecurity Projects: </a>
 - ##  **Samba service enumerator**
