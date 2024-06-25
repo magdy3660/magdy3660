@@ -17,7 +17,7 @@
 #  #  Coding Projects 
 
 - ## **Building a full stack web application**
-  - ###  [Store Website](https://github.com/abdomagdy0/Cartful)
+  - ###  [Cartful store](https://github.com/abdomagdy0/Cartful)
   
 - ## **Recipe sharing website**
   - ###  [Recipe fetcher](https://github.com/abdomagdy0/Find-Recipe)
