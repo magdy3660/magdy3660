@@ -2,22 +2,23 @@
 
 # [ **my blog**](https://blue-notes.gitbook.io/notes)
 
-# # <a href="https://www.linkedin.com/in/abdomagdy0/">Cybersecurity Projects: </a>
-- ##  **Samba service enumerator**
+# # Cybersecurity Projects: 
+- ##  **SMBPortScan, penetration testing tool**
   - ### [samba enumeration tool](https://github.com/abdomagdy0/smb-enum)
-
-- ## **Building a Reverse Shell**
-  -  ### [Vulnserver Reverse Shell Poc](https://github.com/abdomagdy0/vulnserver-Reverse-shell)
- - ## **Building my own Port Scanner**
+    
+- ## **Port Scanner**
 -  ### [Port Scanner with python & Scappy](https://github.com/abdomagdy0/port-scanner)  
 
+- ## **Vulnserver Reverse Shell**
+  -  ### [Vulnserver Reverse Shell Poc](https://github.com/abdomagdy0/vulnserver-Reverse-shell)
+  
 
 
+#  #  Coding Projects 
 
-#  # <a href="https://www.linkedin.com/in/abdomagdy0/">  Coding Projects </a>
-
-- ## **Node Store application**
+- ## **Building a Store Web App**
   - ###  [Store Application](https://github.com/abdomagdy0/node-store)
+  
 - ## **Recipe sharing website**
   - ###  [Recipe fetcher](https://github.com/abdomagdy0/Find-Recipe)
 
@@ -25,7 +26,7 @@
   - ### [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/music-bot)
 
 
- - ## **Frontend Website**
+ - ## **Responsive Website**
     - ### [Fauxica Website](https://github.com/abdomagdy0/Frontend-website)
     
 
