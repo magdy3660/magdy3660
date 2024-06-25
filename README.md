@@ -16,8 +16,8 @@
 
 #  #  Coding Projects 
 
-- ## **Building a Store Web App**
-  - ###  [Store Application](https://github.com/abdomagdy0/node-store)
+- ## **Building a full stack web application**
+  - ###  [Store Website](https://github.com/abdomagdy0/node-store)
   
 - ## **Recipe sharing website**
   - ###  [Recipe fetcher](https://github.com/abdomagdy0/Find-Recipe)
