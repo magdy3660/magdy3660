@@ -1,13 +1,17 @@
 Hey, I'm Abdo! 👋  <br>A Computer Science student from Egypt, who is passionate about software engineering, Backend development, and Cybersecurity!
 - currently improving my skills in backend development.
 - currently enrolled in cisco security engineer scholarship instructed by rowad masr.
- <br> connect me on linkedin:
-   <br>    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn Badge" style="max-width: 100%;" width="50" height="50">
-   <br> 📫 message me at: abdelrahmanmagdy00@proton.me
+ <br> connect me on linkedin: <div id="user-content-badges" dir="auto">
+  <a href="https://www.linkedin.com/in/abdomagdy00/" rel="nofollow">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn Badge" width="50" height="50" style="max-width: 100%;"> 
+  </a>
+  <br> 📫 message me at: abdelrahmanmagdy00@proton.me
+</div>  
 
 # [ **my blog**](https://the-cyber-sentinel.gitbook.io/wiki/)
 
-# # Cybersecurity Projects: - ##  **SMBPortScan**
+# # Cybersecurity Projects: 
+- ##  **SMBPortScan**
   - ### [samba enumeration tool](https://github.com/abdomagdy0/smb-enum)
     
 - ## **Port Scanner**
