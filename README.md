@@ -1,9 +1,10 @@
-<h1>Hi, I'm Abdo! <br/> <a href="https://www.linkedin.com/in/abdomagdy0/">Cybersecurity enthusiast</a> , <a href="https://www.linkedin.com/in/abdomagdy0/">CTF player</a> , <a href="https://www.linkedin.com/in/abdomagdy0/">  content creator </a>
+Hey, I'm Abdo! A Computer Science student from Egypt, who is passionate about software engineering, Backend development, and Cybersecurity!
+- currently improving my skills in backend development.
+- currently enrolled in cisco security engineer scholarship.
 
-# [ **my blog**](https://blue-notes.gitbook.io/notes)
+# [ **my blog**](https://the-notes.gitbook.io/notes)
 
-# # Cybersecurity Projects: 
-- ##  **SMBPortScan, penetration testing tool**
+# # Cybersecurity Projects: - ##  **SMBPortScan**
   - ### [samba enumeration tool](https://github.com/abdomagdy0/smb-enum)
     
 - ## **Port Scanner**
