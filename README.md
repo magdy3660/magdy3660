@@ -12,15 +12,15 @@ Hey, I'm Abdo, also known as intr0sp3ct 👋  <br>A Computer Science student fro
 
 # # Cybersecurity Projects: 
 - ##  **SMBPortScan**
-  - ### [samba enumeration tool](https://github.com/abdomagdy0/smb-enum)
+- ### [samba enumeration tool](https://github.com/abdomagdy0/smb-enum)
     
- 
+ - ## **Recon Automation**
+-  ### [Whistle](https://github.com/abdomagdy0/Whistle) 
+
 
 - ## **Vulnserver Reverse Shell**
-  -  ### [Vulnserver Reverse Shell Poc](https://github.com/abdomagdy0/vulnserver-Reverse-shell)
+-  ### [Vulnserver Reverse Shell Poc](https://github.com/abdomagdy0/vulnserver-Reverse-shell)
   
-- ## **Port Scanner**
--  ### [Port Scanner with python & Scappy](https://github.com/abdomagdy0/port-scanner) 
 
 #  #  Coding Projects 
 
