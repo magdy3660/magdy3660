@@ -1,11 +1,5 @@
 Hey, I'm Abdo, also known as intr0sp3ct 👋  <br>A Computer Science student from Egypt, who is passionate about web development, offensive security, and ethical hacking!
-- currently improving my skills in web exploitation technqiues.
-- currently enrolled in cisco CyberOps & CCNA.
- <br> connect with me on linkedin: <div id="user-content-badges" dir="auto">
-  <a href="https://www.linkedin.com/in/abdomagdy00/" rel="nofollow">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn Badge" width="50" height="50" style="max-width: 100%;"> 
   </a>
-  <br> 📫 message me at: abdelrahmanmagdy00@proton.me
 </div>  
 
 # [ **my blog**](https://the-cyber-sentinel.gitbook.io/wiki/)
