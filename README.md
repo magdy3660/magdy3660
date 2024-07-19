@@ -10,32 +10,31 @@ Hey, I'm Abdo, also known as intr0sp3ct 👋  <br>A Computer Science student fro
 
 # [ **my blog**](https://the-cyber-sentinel.gitbook.io/wiki/)
 
-# # Cybersecurity Projects: 
-- ##  **SMBPortScan**
-- ### [samba enumeration tool](https://github.com/abdomagdy0/smb-enum)
-    
- - ## **Recon Automation**
+# Projects
+- ## Offensive security:
 -  ### [Whistle](https://github.com/abdomagdy0/Whistle) 
 
 
-- ## **Vulnserver Reverse Shell**
+- ### [SMBScanner](https://github.com/abdomagdy0/smb-enum)
+    
+
+
+
 -  ### [Vulnserver Reverse Shell Poc](https://github.com/abdomagdy0/vulnserver-Reverse-shell)
   
 
-#  #  Coding Projects 
+- ## web development  
 
-- ## **Building a full stack web application**
-  - ###  [Cartful store](https://github.com/abdomagdy0/Cartful)
+
+- ###  [Cartful store](https://github.com/abdomagdy0/Cartful)
   
-- ## **Recipe sharing website**
-  - ###  [Recipe fetcher](https://github.com/abdomagdy0/Find-Recipe)
 
-- ## **js Music Bot For Discord**
-  - ### [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/music-bot)
+- ###  [Recipe fetcher](https://github.com/abdomagdy0/Find-Recipe)
 
 
- - ## **Responsive Website**
-    - ### [Fauxica Website](https://github.com/abdomagdy0/Frontend-website)
+- ### [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/music-bot)
+
+- ### [Fauxica Website](https://github.com/abdomagdy0/Frontend-website)
     
 ### Tech stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
