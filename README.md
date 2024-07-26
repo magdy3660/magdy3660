@@ -1,4 +1,4 @@
-Hey, I'm Abdo, also known as intr0sp3ct 👋  <br>A Computer Science student from Egypt, who is passionate about web development, offensive security, and ethical hacking!
+Hey, I'm Abdo 👋  <br>A Computer Science student from Egypt, who is passionate about web development, offensive security, and ethical hacking!
   </a>
 </div>  
 
