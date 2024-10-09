@@ -2,7 +2,7 @@ Hey, I'm Abdo 👋  <br>A Computer Science student from Egypt, interested in Net
   </a>
 </div>  
 
-# [ **my blog**](https://the-cyber-sentinel.gitbook.io/wiki/)
+# [ **Visit my blog**](https://magdy3660.github.io)
 
 # Projects
 - ## Offensive security:
