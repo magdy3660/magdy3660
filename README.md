@@ -1,4 +1,4 @@
-Hey, I'm Abdo 👋  <br>A Computer Science student from Egypt, interested in Network and Offensive Security!
+Hey, I'm Abdo 👋  <br>A Computer Science student from Egypt, interested in Network Security and Offensive Security!
   </a>
 </div>  
 
