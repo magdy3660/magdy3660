@@ -2,33 +2,35 @@ Hey, I'm Abdo 👋  <br>A Computer Science student from Egypt, interested in Net
   </a>
 </div>  
 
-# [ **Visit my blog**](https://magdy3660.github.io)
+# [ **Visit my blog :)**](https://magdy3660.github.io)
 
-# Projects
-- ##  security:
--  ### [Whistle](https://github.com/abdomagdy0/Whistle) 
+# Projects:
+## I'm Currently working on 
+- ### [GreenNest](https://github.com/magdy3360/GreenNest)
+
+## Previous projects
+
+- ###  security related:
+  
+  -  #### [Whistle](https://github.com/magdy3660/Whistle) 
 
 
-- ### [SMBScanner](https://github.com/abdomagdy0/smb-enum)
+  - ### [SMBScanner](https://github.com/magdy3660/smb-enum)
     
 
-
-
--  ### [Vulnserver Reverse Shell Poc](https://github.com/abdomagdy0/vulnserver-Reverse-shell)
+  -   #### [Vulnserver Reverse Shell Poc](https://github.com/magdy3660/vulnserver-Reverse-shell)
   
 
-- ## web development  
-
-
-- ###  [Cartful store](https://github.com/abdomagdy0/Cartful)
+- ### web development  
+  - ####  [Cartful store](https://github.com/magdy3660/Cartful)
   
 
-- ###  [Recipe fetcher](https://github.com/abdomagdy0/Find-Recipe)
+  - ####  [Recipe fetcher](https://github.com/magdy3660/Find-Recipe)
 
 
-- ### [Mp3Man (Discord music bot)](https://github.com/abdomagdy0/music-bot)
+  - #### [Mp3Man (Discord music bot)](https://github.com/magdy3660/music-bot)
 
-- ### [Fauxica Website](https://github.com/abdomagdy0/Frontend-website)
+  - #### [Fauxica Website](https://github.com/magdy3660/Frontend-website)
     
 ### Tech stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
