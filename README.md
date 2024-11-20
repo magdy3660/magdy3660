@@ -6,7 +6,7 @@ Hey, I'm Abdo 👋  <br>A Computer Science student from Egypt, interested in Net
 
 # Projects:
 ## I'm Currently working on 
-- ### [GreenNest](https://github.com/magdy3360/GreenNest)
+- ### [GreenNest](https://github.com/magdy3660/GreenNest)
 
 ## Previous projects
 
