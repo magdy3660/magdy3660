@@ -5,7 +5,7 @@ Hey, I'm Abdo 👋  <br>A Computer Science student from Egypt, interested in Net
 # [ **Visit my blog**](https://magdy3660.github.io)
 
 # Projects
-- ## Offensive security:
+- ##  security:
 -  ### [Whistle](https://github.com/abdomagdy0/Whistle) 
 
 
