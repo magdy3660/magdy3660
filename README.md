@@ -1,4 +1,4 @@
-Hey, I'm Abdo 👋  <br>A Computer Science student from Egypt, interested in Network Security and Offensive Security!
+Hey, I'm Abdo 👋  <br>A Computer Science student from Egypt, Specializing in Offensive Security!
   </a>
 </div>  
 
@@ -15,7 +15,7 @@ Hey, I'm Abdo 👋  <br>A Computer Science student from Egypt, interested in Net
   -  #### [Whistle](https://github.com/magdy3660/Whistle) 
 
 
-  - ### [SMBScanner](https://github.com/magdy3660/smb-enum)
+  -  #### [SMBScanner](https://github.com/magdy3660/smb-enum)
     
 
   -   #### [Vulnserver Reverse Shell Poc](https://github.com/magdy3660/vulnserver-Reverse-shell)
