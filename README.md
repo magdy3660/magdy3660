@@ -5,8 +5,7 @@ Hey, I'm Abdo 👋  <br>A Computer Science student from Egypt, Specializing in O
 # [ **Visit my blog :)**](https://magdy3660.github.io)
 
 # Projects:
-## I'm Currently working on 
-- ### [GreenNest](https://github.com/magdy3660/GreenNest)
+## I'm Currently taking [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist),  working on  [GreenNest](https://github.com/magdy3660/GreenNest), 
 
 ## Previous projects
 
