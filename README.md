@@ -3,9 +3,11 @@ Hey, I'm Abdo 👋  <br>A Computer Science student from Egypt, Specializing in O
 </div>  
 
 # [ **Visit my blog :)**](https://magdy3660.github.io)
+## I'm Currently taking [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 
 # Projects:
-## I'm Currently taking [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist),  working on  [GreenNest](https://github.com/magdy3660/GreenNest), 
+## working on  [GreenNest](https://github.com/magdy3660/GreenNest)
+
 
 ## Previous projects
 
