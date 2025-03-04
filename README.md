@@ -10,14 +10,9 @@ Hey, I'm R3ctangleMan 👋
 
 
 ## Previous projects
-
-
   
   -  #### [Whistle](https://github.com/magdy3660/Whistle) 
 
-
-  -  #### [SMBScanner](https://github.com/magdy3660/smb-enum)
-    
 
   -   #### [Vulnserver Reverse Shell Poc](https://github.com/magdy3660/vulnserver-Reverse-shell)
   
