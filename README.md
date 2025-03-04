@@ -1,4 +1,4 @@
-Hey, I'm R3ctangleMan 👋  <br>A Computer Science Major, Interested in Offensive Security!
+Hey, I'm R3ctangleMan 👋  
   </a>
 </div>  
 
