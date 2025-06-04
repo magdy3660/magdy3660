@@ -6,7 +6,7 @@ Hey, I'm v1p3a00 👋
 ## I'm Currently taking [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 
 # Projects:
-## grad project: [GreenNest]([https://github.com/magdy3660/GreenNest](https://github.com/magdy3660/greenest-API))
+## grad project: [GreenNest](https://github.com/magdy3660/greenest-API)
 
 
 ## Previous projects
